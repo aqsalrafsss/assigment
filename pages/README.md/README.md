@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `Tegar Suryatama - BE8642757`
+- `Aqsal Rizky Rafsanjani - BE9045018`
 - Bob
